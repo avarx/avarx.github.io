@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>www.avarx.io</title><link>/</link><description>Recent content on www.avarx.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>avarx</copyright><lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate><guid>/about/</guid><description>Hi there My name is Adrian von Arx and I&amp;rsquo;m a Team Leader Red Teaming and Penetration Testing. I&amp;rsquo;m a Offensive Security Certified Professional (OSCP) and OSSTMM Professional Security Tester (OPST).
+You can find me here:
+https://twitter.com/avarx_ https://www.twitch.tv/avarx_ https://github.com/avarx/ https://www.linkedin.com/in/adrian-von-arx/</description><content>&lt;h1 id="hi-there">Hi there&lt;/h1>
+&lt;p>My name is Adrian von Arx and I&amp;rsquo;m a Team Leader Red Teaming and Penetration Testing.
+I&amp;rsquo;m a Offensive Security Certified Professional (OSCP) and OSSTMM Professional Security Tester (OPST).&lt;/p>
+&lt;p>You can find me here:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://twitter.com/avarx_">https://twitter.com/avarx_&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.twitch.tv/avarx_">https://www.twitch.tv/avarx_&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/avarx/">https://github.com/avarx/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/in/adrian-von-arx/">https://www.linkedin.com/in/adrian-von-arx/&lt;/a>&lt;/li>
+&lt;/ul></content></item><item><title>CVE</title><link>/cve/</link><pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate><guid>/cve/</guid><description>My CVE CVE for personal reference:
+CVE-2019-12823 | XSS in Craft CMS CVE-2020-7033 | XSS on the Unified Portal Client used in Avaya CVE-2020-28246 | Coming soon</description><content>&lt;h1 id="my-cve">My CVE&lt;/h1>
+&lt;p>CVE for personal reference:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=2019-12823">CVE-2019-12823&lt;/a> | XSS in Craft CMS&lt;/li>
+&lt;li>&lt;a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7033">CVE-2020-7033&lt;/a> | XSS on the Unified Portal Client used in Avaya&lt;/li>
+&lt;li>&lt;a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=2020-28246">CVE-2020-28246&lt;/a> | Coming soon&lt;/li>
+&lt;/ul></content></item><item><title>Init</title><link>/posts/init/</link><pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate><guid>/posts/init/</guid><description>Personal notes. Coming soon&amp;hellip;</description><content>&lt;p>Personal notes. Coming soon&amp;hellip;&lt;/p></content></item></channel></rss>
