@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { github = "https://github.com/avarx" },
     { twitch = "https://twitch.tv/avarx_" },
-    { twitter = "https://twitter.com/avarx" },
+    { twitter = "https://twitter.com/avarx_" },
   ]
 [module]
   [module.hugoVersion]
