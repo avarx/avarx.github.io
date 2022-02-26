@@ -1,0 +1,20 @@
+baseURL = "https://www.avarx.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "ΛVΛRX"
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+[author]
+  name = "ΛVΛRX"
+  image = "img/logo.svg"
+  links = [
+    { github = "https://github.com/avarx" },
+    { twitch = "https://twitch.tv/avarx_" },
+    { twitter = "https://twitter.com/avarx" },
+  ]
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"
+[params]
+    attribution = false
